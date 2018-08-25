@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>悟空的博客</title>
+  
+  <subtitle>等紫霞也等唐僧</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://Clare.com/"/>
+  <updated>2018-08-22T07:27:42.280Z</updated>
+  <id>http://Clare.com/</id>
+  
+  <author>
+    <name>Clare</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello,Hexo!</title>
+    <link href="http://Clare.com/2018/08/22/Hello-Hexo/"/>
+    <id>http://Clare.com/2018/08/22/Hello-Hexo/</id>
+    <published>2018-08-22T07:27:42.000Z</published>
+    <updated>2018-08-22T07:27:42.280Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
